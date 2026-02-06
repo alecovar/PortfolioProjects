@@ -6,4 +6,4 @@ Welcome to my GitHub repository showcasing my data science projects. Explore the
 - **[Guns in America: Partisan Discourse](link-to-project-folder):** Topic modeling and sentiment analysis of congressional newsletters on gun policy.
 - **[Electoral Demographic Sentiment Analysis](link-to-project-folder):** Statistical analysis of Latinx voting behavior in the 2016 election.
 
-Visit my portfolio for more: [Alejandro Covarrubias' Portfolio](https://alecovar.github.io/PortfolioWebsite/)
+<!-- Visit my portfolio for more: [Alejandro Covarrubias' Portfolio](https://alecovar.github.io/PortfolioWebsite/) -->
